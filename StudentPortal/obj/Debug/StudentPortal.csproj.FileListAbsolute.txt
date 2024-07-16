@@ -1,0 +1,9 @@
+C:\Users\warid\source\repos\StudentPortal\StudentPortal\bin\Debug\StudentPortal.exe.config
+C:\Users\warid\source\repos\StudentPortal\StudentPortal\bin\Debug\StudentPortal.exe
+C:\Users\warid\source\repos\StudentPortal\StudentPortal\bin\Debug\StudentPortal.pdb
+C:\Users\warid\source\repos\StudentPortal\StudentPortal\obj\Debug\StudentPortal.csproj.AssemblyReference.cache
+C:\Users\warid\source\repos\StudentPortal\StudentPortal\obj\Debug\StudentPortal.Properties.Resources.resources
+C:\Users\warid\source\repos\StudentPortal\StudentPortal\obj\Debug\StudentPortal.csproj.GenerateResource.cache
+C:\Users\warid\source\repos\StudentPortal\StudentPortal\obj\Debug\StudentPortal.csproj.CoreCompileInputs.cache
+C:\Users\warid\source\repos\StudentPortal\StudentPortal\obj\Debug\StudentPortal.exe
+C:\Users\warid\source\repos\StudentPortal\StudentPortal\obj\Debug\StudentPortal.pdb
